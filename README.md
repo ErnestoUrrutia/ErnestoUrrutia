@@ -1,1 +1,1 @@
-<object data="styles.html" width="100%" height="200px"></object>
+<iframe src="styles.html" width="100%" height="200px"></iframe>
