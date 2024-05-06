@@ -1,24 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        h1{
-            color: red;
-        }
-        div{
-            width: 100px;
-            height: 100px;
-            border: 5px solid red;
-        }
-    </style>
-</head>
-<body>
-    <h1>Hola</h1>
-    <div>
-
-    </div>
-</body>
-</html>
+<h1>Hola!</h1>
+<img src="https://edcpilares.com.mx/recursos/imagenes/java.png">
