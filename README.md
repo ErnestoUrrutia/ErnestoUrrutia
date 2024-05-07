@@ -1,14 +1,5 @@
 <h1>¡Hola y bienvenido a mi perfil de GitHub!</h1>
-
-
-
-
-<img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width=100>
-
-<a href="http://148.206.94.75" target="_blank"><img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width=100></a>
 # 💫 Sobre mi:
-
-
 Soy Ernesto, un apasionado desarrollador con 10 años de experiencia en diversos lenguajes de programación. Este espacio es donde comparto mis proyectos, conocimientos y colaboraciones con la comunidad de desarrolladores.
 
 Explora mis repositorios y descubre lo que he estado construyendo. Si te interesa alguno de mis proyectos o tienes alguna pregunta sobre mi experiencia en el desarrollo de software, no dudes en ponerte en contacto conmigo.
