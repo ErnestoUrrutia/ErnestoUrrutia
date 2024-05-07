@@ -15,6 +15,6 @@ Estoy emocionado de compartir ideas, colaborar en proyectos interesantes y apren
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/er) 
 
 <h2>💻</h2> Tech Stack:
-<img src="fla2.png">
+<img src="Top.png">
 <img src="fla2.png">
 
