@@ -14,7 +14,7 @@ Estoy emocionado de compartir ideas, colaborar en proyectos interesantes y apren
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/er) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/er) 
 
-<h2>#💻</h2> Tech Stack:
+# Esta es mi stack de tecnologias 💻:
 
 <img src="fla2.png">
 
