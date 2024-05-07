@@ -4,7 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width=100>
 <p>Esto es un texto</p>
-<a href="http://148.206.94.75">Esto es un vinculo</a>
+<a href="http://148.206.94.75"><img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width=100></a>
 # 💫 About Me:
 asdfasdfasdf<br>asd<br>fa<br>sdf<br>asd<br>fa<br>sd<br>afdfs<br>
 
