@@ -9,7 +9,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com.mx/luisernestourrutiagarcia/) 
 
 # 💻 Mi stack de tecnologias:
-<img src="stack.png">
+<img src="stackt.png">
 
 # 📊 Estadísticas GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=ErnestoUrrutia&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
