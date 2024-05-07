@@ -8,12 +8,12 @@ Estoy emocionado de compartir ideas, colaborar en proyectos interesantes y apren
 
 ¡Bienvenido de nuevo y espero que disfrutes tu visita!
 
-🌐 Socials:
+<h2>🌐</h2> Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/er) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/er) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/er) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/er) 
 
-💻 Tech Stack:
+<h2>💻</h2> Tech Stack:
 <img src="fla2.png">
 
